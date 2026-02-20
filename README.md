@@ -25,6 +25,6 @@ PrimeDict.txt maps each prime n to the index of the smallest qualifying smaller 
 
 Both properties were tested on all primes up to 100,000.
 
-Property 1: 9592 primes tested, 0 counterexamples.
+Property 1: 9589 primes tested, 0 counterexamples.
 
-Property 2: 9592 primes tested, 0 counterexamples.
+Property 2: 9589 primes tested, 0 counterexamples.
