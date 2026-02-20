@@ -19,7 +19,7 @@ for i in range(1,len(primes)-1):
 for k in x:
 		flag = 0
 		xT[k]=0
-		for n in x[k]:
+		for n in list(reversed(x[k])):
 			xT[k]+=1
 			if isprime(n+1) or isprime(n-1):
 				prime+=1
